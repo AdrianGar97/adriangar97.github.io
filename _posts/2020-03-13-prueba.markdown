@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Prueba"
+date:   2020-02-13 04:05:20 -0600
+categories: jekyll update
+---
+
+## Hola
+Esto es una prueba.
+
+Texto en **negrita**.
+
+Texto en *cursiva*.
